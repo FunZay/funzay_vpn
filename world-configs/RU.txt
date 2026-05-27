@@ -1,0 +1,5 @@
+# profile-title: 🇷🇺 | Russia | @FunZaykaShop
+# interval: 1
+vless://ae13ce8f-b482-4799-9d79-daf60fb77732@84.201.144.113:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇷🇺 | Russia | #1 | @FunZaykaShop
+vless://ae13ce8f-b482-4799-9d79-daf60fb77732@84.201.136.5:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇷🇺 | Russia | #2 | @FunZaykaShop
+vless://ae13ce8f-b482-4799-9d79-daf60fb77732@84.201.168.186:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇷🇺 | Russia | #3 | @FunZaykaShop
