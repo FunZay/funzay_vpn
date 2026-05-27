@@ -1,0 +1,13 @@
+# profile-title: @FunZaykaShop
+# interval: 1
+
+vless://9ebab373-19fe-4535-aa95-4e348ea300f1@212.193.155.32:443?path=%2Fws&security=tls&encryption=none&host=s28315.cdn.ngenix.net&allowinsecure=0&type=ws&sni=s28315.cdn.ngenix.net#🇩🇪 | Germany | #1 | @FunZaykaShop
+vless://9ebab373-19fe-4535-aa95-4e348ea300f1@46.235.185.25:443?path=%2Fws&security=tls&encryption=none&host=s28315.cdn.ngenix.net&allowinsecure=0&type=ws&sni=s28315.cdn.ngenix.net#🇩🇪 | Germany | #2 | @FunZaykaShop
+vless://9ebab373-19fe-4535-aa95-4e348ea300f1@46.235.186.50:443?path=%2Fws&security=tls&encryption=none&host=s28315.cdn.ngenix.net&allowinsecure=0&type=ws&sni=s28315.cdn.ngenix.net#🇩🇪 | Germany | #3 | @FunZaykaShop
+vless://9ebab373-19fe-4535-aa95-4e348ea300f1@78.41.110.238:443?path=%2Fws&security=tls&encryption=none&host=s28315.cdn.ngenix.net&allowinsecure=0&type=ws&sni=s28315.cdn.ngenix.net#🇩🇪 | Germany | #4 | @FunZaykaShop
+vless://ae13ce8f-b482-4799-9d79-daf60fb77732@84.201.168.186:443?security=reality&encryption=none&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&headerType=none&fp=randomized&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cdp.x5.ru&sid=8ec792bfd725be8a#🇩🇪 | Germany | #5 | @FunZaykaShop
+vless://652fedf3-88a1-4b70-9136-5a5696124a6c@84.201.164.26:446?mode=gun&security=reality&encryption=none&authority=&pbk=mMaSUsOC5i3ErLDcaWW9UOOjG0fcKPCwVjzGS1wXQx8&fp=chrome&allowinsecure=0&type=grpc&serviceName=ads.x5.ru&sni=ads.x5.ru&sid=0512567389abcdef#🇵🇱 | Польша | №1 | @FunZaykaShop
+vless://652fedf3-88a1-4b70-9136-5a5696124a6c@84.201.164.26:446?mode=gun&security=reality&encryption=none&authority=&pbk=mMaSUsOC5i3ErLDcaWW9UOOjG0fcKPCwVjzGS1wXQx8&allowinsecure=0&type=grpc&serviceName=ads.x5.ru&sni=ads.x5.ru&sid=0512567389abcdef#🇵🇱 | Польша | №2 | @FunZaykaShop
+vless://ae13ce8f-b482-4799-9d79-daf60fb77732@84.201.144.113:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇷🇺 | Russia | #1 | @FunZaykaShop
+vless://ae13ce8f-b482-4799-9d79-daf60fb77732@84.201.136.5:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇷🇺 | Russia | #2 | @FunZaykaShop
+vless://ae13ce8f-b482-4799-9d79-daf60fb77732@84.201.168.186:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇷🇺 | Russia | #3 | @FunZaykaShop
