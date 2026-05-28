@@ -2,7 +2,7 @@
 #profile-update-interval: 1
 #announce: По вопросам пишите в поддержку!
 #support-url: https://t.me/FunZaykaShop
-#subscription-userinfo: upload=100; download=200; total=10737418240; expire=1735689600
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://5610a52c-48e0-4e8c-9230-fb302b04d02e@ss.ll0ll.vip:2096?mode=gun&security=reality&encryption=none&authority=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&allowinsecure=0&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#🇳🇱 | NL | Обход | @FunZaykaShop
 vless://1d29d287-0e02-4e8e-81a4-14708d96e7ba@144.31.190.253:443?security=reality&encryption=none&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ru-1.videoproeditor.com&sid=6d6f13013d3e1d0c#🇷🇺 | RU | Обход | @FunZaykaShop
