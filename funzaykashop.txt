@@ -1,0 +1,5 @@
+# HAPP VPN Subscription Configuration
+# Profile Name: FunZaykaShop
+# Update URL: https://raw.githack.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile.txt
+
+https://raw.githack.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile.txt
